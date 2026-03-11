@@ -4,7 +4,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-API for the Shoes Ecommerce Next.js Website, developed with Fastify, TypeScript, and Prisma.
+API for the Shoes Ecommerce Next.js Website, developed with Fastify, TypeScript and Prisma.
 
 ## How to use
 
